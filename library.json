@@ -10,7 +10,7 @@
   "url": "http://www.kbide.org",
   "version": "1.0.0",
   "board" : "",
-  "platform": ["arduino-esp32"],
+  "platform": ["arduino-esp32","arduino-avr"],
   "license": "",
   "image" : "/static/display.png",
   "homepage": "http://www.kbide.org"
